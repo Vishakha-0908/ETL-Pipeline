@@ -770,8 +770,8 @@ Potential enhancements:
 
 Data Analyst | Data Engineer | SQL Developer
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
+* LinkedIn: www.linkedin.com/in/vishakha9
+* GitHub: https://github.com/Vishakha-0908
 
 ---
 
