@@ -305,7 +305,7 @@ Run SQL scripts in the following order:
 
 ```sql
 -- Bronze Layer
-bronze_orders.sql
+1.cresting stage.sql
 bronze_customers.sql
 bronze_products.sql
 bronze_order_items.sql
